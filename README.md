@@ -14,5 +14,5 @@
 - F. El proyecto debe incluir un excel de nombre Casos de Test.xls con al menos 5 casos 10 relevantes de pruebas unitarias (Unit Test).
 - G. Calidad y legibilidad del código, nombre de variables, estructura de las clases y modelos.
 
-## Stack
-- HTML5, CSS3, Django, SQL.
+### Stack
+HTML5, CSS3, Django, SQL.
